@@ -1,7 +1,7 @@
-# PASHU
+### PASHU
 An animal welfare app
 
-Members
+### Members
 Aaditya Raj Baidhya<br>
 Aniket Chand<br>
 Arbin Sigdel<br>
