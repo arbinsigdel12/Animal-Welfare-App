@@ -2,7 +2,7 @@
 An animal welfare app
 
 Members
-Aaditya Raj Baidhya
-Aniket Chand
-Arbin Sigdel
+Aaditya Raj Baidhya \n
+Aniket Chand \n
+Arbin Sigdel \n
 Diwas Ghimire
